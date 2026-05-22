@@ -69,7 +69,7 @@ nav ul li a:hover {
 /* --- SECCIÓN HERO --- */
 .hero-flex {
     background: linear-gradient(rgba(58, 60, 59, 0.8), rgba(73, 85, 79, 0.8)), 
-                url('Collage.PNG') center center;
+                url('Collage5.jpg') center center;
     background-size: 100% auto; /* El 100% asegura que cubra todo lo ancho */
     background-repeat: no-repeat;
     color: white;
